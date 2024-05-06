@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lipp1305
-- 👀 I’m interested in web development and AI
+- 👀 I’m interested in software engineering and mathematics
 - 🌱 I’m currently learning javascript, python and c++
 - 📫 linkedin: simon-lippitt
 
